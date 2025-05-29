@@ -13,3 +13,6 @@ El Pilates es un método de entrenamiento que se enfoca en fortalecer el core, m
 2. Practica ejercicios como el "hundred", planchas o elevaciones de piernas durante 30-45 minutos.
 3. Termina con estiramientos suaves y relajación.
 
+## Consejos
+- Mantén el control y la precisión en cada movimiento.
+- Si eres principiante, considera clases guiadas.
