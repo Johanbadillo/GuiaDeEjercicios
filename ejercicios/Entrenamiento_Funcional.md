@@ -8,3 +8,8 @@ El entrenamiento funcional consiste en ejercicios que imitan movimientos cotidia
 - Aumenta la fuerza y la estabilidad del core.
 - Favorece la coordinación y el equilibrio.
 
+## Instrucciones
+1. Comienza con un calentamiento dinámico de 5-10 minutos.
+2. Realiza ejercicios como sentadillas con peso, planchas o burpees durante 20-30 minutos.
+3. Termina con estiramientos y ejercicios de movilidad.
+
