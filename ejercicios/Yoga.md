@@ -13,3 +13,6 @@ El yoga combina posturas físicas, técnicas de respiración y meditación para 
 2. Realiza una secuencia de posturas (como el perro boca abajo, guerrero o postura del árbol) durante 30-60 minutos.
 3. Finaliza con relajación (savasana) durante 5-10 minutos.
 
+## Consejos
+- Usa una esterilla para mayor comodidad.
+- Escucha a tu cuerpo y evita forzar las posturas.
