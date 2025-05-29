@@ -13,3 +13,6 @@ El ciclismo es una actividad aeróbica que implica pedalear en bicicleta, ya sea
 2. Pedalea a un ritmo moderado o intenso durante 30-60 minutos, dependiendo de tu nivel.
 3. Termina con un enfriamiento de 5 minutos y estiramientos de piernas.
 
+## Consejos
+- Ajusta el asiento y el manubrio para una postura cómoda.
+- Usa equipo de seguridad como casco si pedaleas al aire libre.
