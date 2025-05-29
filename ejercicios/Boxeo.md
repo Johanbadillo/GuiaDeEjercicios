@@ -13,3 +13,6 @@ El boxeo es un entrenamiento de alta intensidad que combina golpes, trabajo card
 2. Practica combinaciones de golpes (jab, cross, uppercut) y ejercicios de saco durante 30-45 minutos.
 3. Termina con estiramientos y relajación.
 
+## Consejos
+- Usa guantes y vendas para proteger tus manos.
+- Trabaja con un entrenador si eres principiante.
