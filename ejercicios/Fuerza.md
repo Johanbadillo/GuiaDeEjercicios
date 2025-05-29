@@ -12,3 +12,7 @@ Los ejercicios de fuerza se centran en desarrollar la musculatura y mejorar la r
 1. Realiza un calentamiento dinámico de 5-10 minutos.
 2. Ejecuta 3-4 series de ejercicios como sentadillas, press de banca o levantamiento de pesas, con 8-12 repeticiones por serie.
 3. Finaliza con estiramientos estáticos para relajar los músculos.
+
+## Consejos
+- Mantén una técnica adecuada para evitar lesiones.
+- Ajusta el peso según tu nivel de experiencia.
