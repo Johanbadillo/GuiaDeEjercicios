@@ -13,3 +13,6 @@ La natación es un ejercicio de cuerpo completo que se realiza en el agua, mejor
 2. Nada durante 20-40 minutos, alternando estilos (crol, espalda, braza) si es posible.
 3. Finaliza con un enfriamiento y estiramientos fuera del agua.
 
+## Consejos
+- Usa gafas de natación para mayor comodidad.
+- Mantén una técnica adecuada para maximizar el esfuerzo.
