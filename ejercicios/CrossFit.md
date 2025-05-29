@@ -13,3 +13,6 @@ El CrossFit es un entrenamiento de alta intensidad que combina ejercicios de fue
 2. Completa el WOD (entrenamiento del día) que puede incluir ejercicios como levantamiento de pesas, burpees o dominadas, durante 20-30 minutos.
 3. Finaliza con estiramientos y recuperación.
 
+## Consejos
+- Escala los ejercicios según tu nivel.
+- Entrena en un box con coaches certificados.
